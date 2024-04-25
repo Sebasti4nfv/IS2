@@ -4,8 +4,9 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hello mundo";
+    cout<<"Hellakasjksjasfkasjo mundo";
     int uno;
+    double 1.24;
 
     return 0;
 } 
